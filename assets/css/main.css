@@ -1746,7 +1746,7 @@ input, select, textarea {
 			}
 
 /* Style buttons */
-/*
+
 .btn {
 	background-color: #808080;
 	border: none;
@@ -1756,7 +1756,7 @@ input, select, textarea {
 	font-size: 20px;
 }
 
-	/* Lighter background on mouse-over *//*
+	/* Lighter background on mouse-over */
 	.btn:hover {
 		background-color: #C0C0C0;
 	}
