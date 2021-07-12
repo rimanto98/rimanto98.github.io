@@ -1747,7 +1747,7 @@ input, select, textarea {
 
 /* Style buttons */
 .btn {
-	background-color: DodgerBlue;
+	background-color: #808080;
 	border: none;
 	color: white;
 	padding: 12px 30px;
@@ -1757,7 +1757,7 @@ input, select, textarea {
 
 	/* Darker background on mouse-over */
 	.btn:hover {
-		background-color: RoyalBlue;
+		background-color: #C0C0C0;
 	}
 
 /* List */
