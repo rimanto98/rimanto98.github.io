@@ -1622,7 +1622,7 @@ input, select, textarea {
 
 /* Image */
 
-	.img:hover {
+	.image.featured:hover {
 		color: #424242;
 		-webkit-transition: all .3s ease-in;
 		-moz-transition: all .3s ease-in;
