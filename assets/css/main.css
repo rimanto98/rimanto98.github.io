@@ -1746,6 +1746,7 @@ input, select, textarea {
 			}
 
 /* Style buttons */
+/*
 .btn {
 	background-color: #808080;
 	border: none;
@@ -1755,17 +1756,16 @@ input, select, textarea {
 	font-size: 20px;
 }
 
-	/* Lighter background on mouse-over */
+	/* Lighter background on mouse-over *//*
 	.btn:hover {
 		background-color: #C0C0C0;
 	}
 
 /* List */
-
-	ul {
-		list-style: disc;
-		padding-left: 1em;
-	}
+ul {
+	list-style: disc;
+	padding-left: 1em;
+}
 
 		ul li {
 			padding-left: 0.5em;
