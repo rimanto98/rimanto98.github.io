@@ -1755,7 +1755,7 @@ input, select, textarea {
 	font-size: 20px;
 }
 
-	/* Darker background on mouse-over */
+	/* Lighter background on mouse-over */
 	.btn:hover {
 		background-color: #C0C0C0;
 	}
